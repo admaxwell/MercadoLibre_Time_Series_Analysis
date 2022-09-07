@@ -7,30 +7,43 @@ Produce a Google colab file analyzing the company's financial and user data in c
 
 ## Technologies
 
-The following Technologies were used to develop this program:
+This project leverages python 3.7 with the following packages:
 
-Python 
-    Version 3.9.7
+* [pandas](https://pandas.pydata.org/docs/getting_started/install.html) - For summary statistics, visulizations, and times series analysis.
+* [jupyter lab](https://jupyter.org/install) - JupyterLab is the latest web-based interactive development environment for notebooks, code, and data.
 
-Terminal
-    Version 2.12.5 (444)
+* Visual Studio Code Version: 1.70.2 (Universal)
+Commit: e4503b30fc78200f846c62cf8091b76ff5547662
+Date: 2022-08-16T05:36:37.829Z
+Electron: 18.3.5
+Chromium: 100.0.4896.160
+Node.js: 16.13.2
+V8: 10.0.139.17-electron.0
+OS: Darwin arm64 21.4.0
 
-Visual Studio Code
-    Version: 1.66.2 (Universal)
-    Commit: dfd34e8260c270da74b5c2d86d61aee4b6d56977
-    Date: 2022-04-11T07:49:20.994Z
-    Electron: 17.2.0
-    Chromium: 98.0.4758.109
-    Node.js: 16.13.0
-    V8: 9.8.177.11-electron.0
-    OS: Darwin x64 21.4.0
-    
-Jupyter Lab 
-    Version 3.2.9
-    
-Google.colab
 
 ---
+
+
+## Libraries used in analysis
+
+pystan
+
+pandas 
+
+hvplot.pandas
+
+holoviews 
+
+Facebook Prophet
+
+numpy 
+
+matplotlib inline
+
+
+---
+
 
 ## General information about analysis.
 
@@ -47,22 +60,5 @@ Then you creat a time series model with Prophet and forecast revenue by using ti
 
 ---
 
-## Libraries used in analysis
-
-pandas
-
-numpy
-
-holoviews
-
-Prophet
-
-hvplot
-
-datetime
-
-metaplotlib
-
-panel
 
 ---
