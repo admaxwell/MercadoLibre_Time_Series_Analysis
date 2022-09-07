@@ -54,11 +54,21 @@ After that you mine the search traffic data for seasonality and try to find sear
 Then you creat a time series model with Prophet and forecast revenue by using time series models.
 
 
+---
 
+## Contributors
 
+#### Antiwan Maxwell
+#### Contact Infromation:
+
+email: antiwan.maxwell@outlook.com
+
+[LinkedIn](https://www.linkedin.com/in/antiwan-maxwell-205a11233/)
 
 
 ---
 
+## License
 
----
+[MIT](LICENSE)
+
