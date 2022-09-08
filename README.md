@@ -1,11 +1,12 @@
 # MercadoLibre Time Series Analysis
 
-Produce a Google colab file analyzing the company's financial and user data in clever ways to make the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+This project produces a jupyter notebook using google.colab and facebook prophet to render a time series analysis of e-commerce gaint Mercado Libre. The goal is to analysis the provided data to determine if the search traffic on the company's website has any correlation to sales.
 
 
 ---
 
 ## Technologies
+
 
 This project leverages python 3.7 with the following packages:
 
@@ -40,19 +41,6 @@ Facebook Prophet
 numpy 
 
 matplotlib inline
-
-
----
-
-
-## General information about analysis.
-
-First you need to configure Google Colab workspace.  After configuring Google Colab try to find unusual patterns in hourly google search traffic.
-
-After that you mine the search traffic data for seasonality and try to find search traffic to stock price patterns.
-
-Then you creat a time series model with Prophet and forecast revenue by using time series models.
-
 
 ---
 
